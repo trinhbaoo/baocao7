@@ -32,7 +32,7 @@ const Header = () => {
         <Flex className="flex items-center justify-between h-full">
           <Link to="/">
             <div>
-              <Image className="w-32 object-cover" imgSrc={logo} />
+              <Image className="w-32 object-cover" />
             </div>
           </Link>
           <div>
@@ -106,11 +106,11 @@ const Header = () => {
                           transition={{ duration: 0.4 }}
                           className="text-sm flex flex-col gap-1"
                         >
-                          <li className="headerSedenavLi">New Arrivals</li>
-                          <li className="headerSedenavLi">Gudgets</li>
-                          <li className="headerSedenavLi">Accessories</li>
-                          <li className="headerSedenavLi">Electronics</li>
-                          <li className="headerSedenavLi">Others</li>
+                          <li className="headerSedenavLi">Hàng mới về</li>
+                          <li className="headerSedenavLi">Tiện ích</li>
+                          <li className="headerSedenavLi">Phụ kiện</li>
+                          <li className="headerSedenavLi">Điện tử học</li>
+                          <li className="headerSedenavLi">Khác</li>
                         </motion.ul>
                       )}
                     </div>
@@ -129,11 +129,11 @@ const Header = () => {
                           transition={{ duration: 0.4 }}
                           className="text-sm flex flex-col gap-1"
                         >
-                          <li className="headerSedenavLi">New Arrivals</li>
-                          <li className="headerSedenavLi">Gudgets</li>
-                          <li className="headerSedenavLi">Accessories</li>
-                          <li className="headerSedenavLi">Electronics</li>
-                          <li className="headerSedenavLi">Others</li>
+                          <li className="headerSedenavLi">Hàng mới về</li>
+                          <li className="headerSedenavLi">Tiện ích</li>
+                          <li className="headerSedenavLi">Phụ kiện</li>
+                          <li className="headerSedenavLi">Điện tử học</li>
+                          <li className="headerSedenavLi">Khác</li>
                         </motion.ul>
                       )}
                     </div>
