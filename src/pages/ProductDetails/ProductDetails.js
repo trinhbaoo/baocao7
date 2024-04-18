@@ -110,7 +110,7 @@ const ProductDetails = () => {
                           rel="noopener noreferrer"
                           className="text-white"
                         >
-                          Download PDF
+                        
                         </a>{" "}
                       </button>
                     </div>

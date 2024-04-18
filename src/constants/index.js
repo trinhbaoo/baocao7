@@ -295,7 +295,7 @@ export const paginationItems = [
   {
     _id: "201",
     img: IMPRIMANTE_PANTUM_CP2200DW,
-    productName: "Imprimante PANTUM CP2200DW",
+    productName: "KIA Canival",
     price: "35.00",
     color: "Blanc",
     badge: true,
@@ -321,7 +321,7 @@ export const paginationItems = [
   {
     _id: "202",
     img: IMPRIMANTE_PANTUM_BM5100FDW,
-    productName: "IMPRIMANTE PANTUM BM5100FDW",
+    productName: "KIA Morning",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -365,7 +365,7 @@ export const paginationItems = [
   {
     _id: "203",
     img: IMPRIMANTE_PANTUM_BP5100DN,
-    productName: "IMPRIMANTE PANTUM BP5100DN",
+    productName: "VF9",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -408,7 +408,7 @@ export const paginationItems = [
   {
     _id: "2005",
     img: IMPRIMANTE_PANTUM_M6609N,
-    productName: "IMPRIMANTE PANTUM M6559N",
+    productName: "VF9",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -451,7 +451,7 @@ export const paginationItems = [
   {
     _id: "20005",
     img: IMPRIMANTE_PANTUM_M6559N,
-    productName: "IMPRIMANTE PANTUM M6559N",
+    productName: "VF9",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -494,7 +494,7 @@ export const paginationItems = [
   {
     _id: "206",
     img: IMPRIMANTE_PANTUM_P3300DN,
-    productName: "IMPRIMANTE PANTUM P3300DN",
+    productName: "KIA K5",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -548,7 +548,7 @@ export const paginationItems = [
   {
     _id: "207",
     img: IMPRIMANTE_PANTUM_P3300DW,
-    productName: "IMPRIMANTE PANTUM P3300DW",
+    productName: "VF8",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -601,7 +601,7 @@ export const paginationItems = [
   {
     _id: "208",
     img: IMPRIMANTE_PANTUM_P2509W,
-    productName: "IMPRIMANTE PANTUM P2509W",
+    productName: "VINFAST",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -643,7 +643,7 @@ export const paginationItems = [
   {
     _id: "233",
     img: IMPRIMANTE_PANTUM_P2509,
-    productName: "IMPRIMANTE PANTUM P2509",
+    productName: "VF5",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -656,7 +656,7 @@ export const paginationItems = [
   {
     _id: "220",
     img: bac3,
-    productName: "Bac de dechet",
+    productName: "CIVIC",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -666,7 +666,7 @@ export const paginationItems = [
   {
     _id: "221",
     img: bac4,
-    productName: "Bac de dechet",
+    productName: "KIA K3",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -676,7 +676,7 @@ export const paginationItems = [
   {
     _id: "215",
     img: ruban3,
-    productName: "Ruban",
+    productName: "NISSAN",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -686,7 +686,7 @@ export const paginationItems = [
   {
     _id: "216",
     img: ruban4,
-    productName: "Ruban",
+    productName: "NISSAN",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -696,7 +696,7 @@ export const paginationItems = [
   {
     _id: "209",
     img: encre1,
-    productName: "encre",
+    productName: "KIA",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -706,7 +706,7 @@ export const paginationItems = [
   {
     _id: "210",
     img: encre2,
-    productName: "encre",
+    productName: "KIA",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -717,7 +717,7 @@ export const paginationItems = [
   {
     _id: "211",
     img: encre3,
-    productName: "encre",
+    productName: "KIA",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -727,7 +727,7 @@ export const paginationItems = [
   {
     _id: "212",
     img: encre4,
-    productName: "encre",
+    productName: "KIA",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -737,7 +737,7 @@ export const paginationItems = [
   {
     _id: "213",
     img: ruban1,
-    productName: "Ruban",
+    productName: "NISSAN",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -747,7 +747,7 @@ export const paginationItems = [
   {
     _id: "214",
     img: ruban2,
-    productName: "Ruban",
+    productName: "NISSAN",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -758,7 +758,7 @@ export const paginationItems = [
   {
     _id: "217",
     img: bac1,
-    productName: "Bac de dechet",
+    productName: "HONDA",
     price: "25.00",
     color: "Mixed",
     badge: true,
@@ -768,7 +768,7 @@ export const paginationItems = [
   {
     _id: "219",
     img: bac2,
-    productName: "Bac de dechet",
+    productName: "FORD",
     price: "220.00",
     color: "Black",
     badge: true,
@@ -782,7 +782,7 @@ export const paginationItems = [
     _id: "hp1",
     img: hp1,
     productName:
-      "IMPRIMANTE HP JET D'ENCRE HP SMART TANK 516 COULEUR MFP 3EN1 A4 WIFI",
+      "HONDA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -846,7 +846,7 @@ export const paginationItems = [
   {
     _id: "hp2",
     img: hp2,
-    productName: "IMPRIMANTE HP INK TANK WIRELESS 415 ALL-IN-ONE",
+    productName: "HONDA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -860,7 +860,7 @@ export const paginationItems = [
   {
     _id: "hp3",
     img: hp3,
-    productName: "IMPRIMANTE HP INK TANK WIRELESS 415 ALL-IN-ONE",
+    productName: "HONDA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -964,7 +964,7 @@ export const paginationItems = [
   {
     _id: "ricoh1",
     img: ricoh1,
-    productName: "IMPRIMANTE RICOH P501",
+    productName: "TOYOTA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -1068,7 +1068,7 @@ export const paginationItems = [
   {
     _id: "ricoh2",
     img: ricoh2,
-    productName: "IMPRIMANTE RICOH SP3710DN",
+    productName: "TOYOTA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -1171,7 +1171,7 @@ export const paginationItems = [
   {
     _id: "ricoh3",
     img: ricoh3,
-    productName: "IMPRIMANTE RICOH SP4520DN",
+    productName: "TOYOTA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -1274,7 +1274,7 @@ export const paginationItems = [
   {
     _id: "ricoh4",
     img: ricoh4,
-    productName: "IMPRIMANTE RICOH COULEUR LASER SPC840",
+    productName: "TOYOTA",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -1377,7 +1377,7 @@ export const paginationItems = [
   {
     _id: "ricoh5",
     img: ricoh5,
-    productName: "IMPRIMANTE RICOH SP4510DN (407313)",
+    productName: "TOYOTA (407313)",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -1483,7 +1483,7 @@ export const paginationItems = [
   {
     _id: "espson1",
     img: espson1,
-    productName: "IMPRIMANTE EPSON L3251 3EN1 A4 WIFI",
+    productName: "VINFAST",
     price: "450",
     color: "Blanc",
     badge: true,
@@ -1587,7 +1587,7 @@ export const paginationItems = [
   {
     _id: "espson2",
     img: espson2,
-    productName: "IMPRIMANTE EPSON JET D'ENCRE L3156 COULEUR A4  WIFI",
+    productName: "VINFAST",
     price: "450",
     color: "Blanc",
     badge: true,

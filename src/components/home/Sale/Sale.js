@@ -23,7 +23,7 @@ const Sale = () => {
             <p className="text-lg md:text-xl lg:text-2xl mb-6">
               Up to{" "}
               <span className="text-4xl md:text-5xl lg:text-5xl font-bold">
-                30%
+                10%
               </span>{" "}
               sales for all impriamnte{" "}
             </p>
